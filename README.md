@@ -58,6 +58,6 @@ Then follow these steps:
 ![image](https://github.com/yaronelh/Always-Show-Gmails-From-Field/assets/7690499/3132fe7c-d8e3-4d3f-9e91-5a7c18410ebe)
 4. Choose the folder you created with the two files. 
 
-Alternatively, you can download the ready made files I created and point chrome to that.
+Alternatively, you can download the folder "Gmail From Field Extension" I created at the top and point chrome to that.
 (This would work on any chromium-based browser), Now you can finally see the from field, especially if you have multiple from options when you're typing and preparing the email.
 hopefully the development team at Gmail will add this feature in the future but currently it doesn't exist, so that's a quick workaround 😉.
