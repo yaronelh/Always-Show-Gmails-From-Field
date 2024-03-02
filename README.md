@@ -20,6 +20,10 @@ These are the three lines of CSS we need, they need to be in their own file.
 .I5 .fX.aiL {
   display: block !important;
 }
+
+.I5 .aoD.hl {
+  display: none;
+}
 ```
 
 That's it🙂
