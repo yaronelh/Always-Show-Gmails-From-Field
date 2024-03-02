@@ -11,10 +11,10 @@ If we don't do that, Gmail will revert to its default behavior the next time you
 
 ## What in the extension?
 
-Well, this extension is only 3 lines of css, so it's not much of an extension, but we need the persistency (visible all the time), so we have to go with the extension approach.
+Well, this extension is only 7 lines of css, so it's not much of an extension, but we need the persistency (visible all the time), so we have to go with the extension approach.
 Let's get to the point as it takes less time to implement than explain.
 
-These are the three lines of CSS we need, they need to be in their own file.
+These are the seven lines of CSS we need, they need to be in their own file.
 
 ```css
 .I5 .fX.aiL {
