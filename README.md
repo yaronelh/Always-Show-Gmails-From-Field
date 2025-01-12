@@ -1,4 +1,5 @@
 # Always Show Gmails From Field
+Written by Yaron Elharar | Last checked: 12th of January 2025
 
 This Google Chrome extension keeps the from field always visible, making it easier to see and confirm the email account you're using to send emails.
 Especially when you're in the process of editing the email. The default behavior of Gmail and Google workspaces is to have the from field hidden the second you start writing your email, this forces it to be visible all the time.
